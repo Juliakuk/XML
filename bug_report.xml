@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <bug_report>
+        <Summary>Login:Error messages in the login form are displayed in English</Summary>
+        <Enviroment>All browsers / devices</Enviroment>
+        <Severity>Major</Severity>
+        <Actual result>Error messages in the login form are displayed in English</Actual result>
+        <Expected result>Error messages in the login form are displayed in the chosen language</Expected result>
+        <Attachment>JPG</Attachment>
+    </bug_report>
+</root>
