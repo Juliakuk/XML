@@ -1,5 +1,5 @@
-# XML
-Git Homework Part 2  
+# XML  
+#### Homework for git part 3  
 1. Создать внешний репозиторий c названием XML  
 > git-> repositories-> add. Называем репозиторий, добавляем README.md  
 2. Клонировать репозиторий XML на локальный компьютер.  
